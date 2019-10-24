@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="profile_pic">Profile Picture</string>
+    <string name="profile_desc">
+        Address: 111, Jalan Cina,Sungai Ulu,Tangkak 84710,Johor.\n\n\n
+        Date of Birth: 12 April 1995\n\n\n
+        Education:\n\n
+        \tSJK(C) Kung Yu\n\n
+        \tSMJK Pei Hwa\n\n
+        \tTunku Abdul Rahman College University\n\n\n
+        Hobby: \n\n
+        \tSleeping\n\n
+        \tEating\n\n
+        \tSinging\n\n
+        \tDancing\n\n
+        \tDrinking\n\n
+        \tPlaying\n\n\n
+
+    </string>
+</resources>
